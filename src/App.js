@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>My App - Web25 - New Branch</h1>
+      <h1>My App - Web25 - New Branch!</h1>
       <h2>
         Deployed with{' '}
         <a
